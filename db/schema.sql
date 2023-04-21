@@ -1,5 +1,3 @@
-DROP DATABASE IF EXISTS cit9q6cple5mxvxr;
+DROP DATABASE IF EXISTS tech_blog_db;
 
-CREATE DATABASE cit9q6cple5mxvxr;
-
--- tech_blog_db
+CREATE DATABASE tech_blog_db;

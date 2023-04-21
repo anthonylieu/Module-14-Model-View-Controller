@@ -14,7 +14,7 @@ The app allows a user to login sginup add and view comments in a blog setting
 ## Installation
 
 To install the app clone the repo then in the terminal put in.
-` npm i , mysql -u root -p , sourcedb/schema.sql, npm start`
+` npm i , mysql -u root -p , source db/schema.sql, npm start`
 
 ## Usage
 Heroku:
