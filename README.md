@@ -2,7 +2,7 @@
 
 ## Description
 
-The app allows a user to login sginup add and view comments in a blog setting
+The app allows a user to sign-up, login, add and view comments in a blog setting.
 
 ## Table of Contents
 
@@ -17,10 +17,12 @@ To install the app clone the repo then in the terminal put in.
 ` npm i , mysql -u root -p , source db/schema.sql, npm start`
 
 ## Usage
+
 Heroku:
 ![screenshot]()
 
-## License 
+## License
+
 MIT
 
 ## Questions
