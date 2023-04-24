@@ -19,7 +19,7 @@ To install the app clone the repo then in the terminal put in.
 ## Usage
 
 [Heroku:](https://module-14-mvc.herokuapp.com/)
-![Screenshot](https://i.imgur.com/iMN0Mt8.png)
+![Screenshot](./module14.png)
 
 
 ## License
