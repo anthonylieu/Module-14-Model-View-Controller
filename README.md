@@ -13,7 +13,7 @@ The app allows a user to sign-up, login, add and view comments in a blog setting
 
 ## Installation
 
-<br>To install the app clone the repo then in the terminal put in.</br>
+<br>To install the app, clone the repo then in the terminal put in.</br>
 <br>` npm i , mysql -u root -p , source db/schema.sql, npm start`</br>
 
 ## Usage
